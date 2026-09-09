@@ -169,7 +169,7 @@ The footer position/alignment changed depending on the page or viewport.
 
 The following documents are included in this repository:
 
-* [Test Plan](Test%20Plan.pdf)
+* [Test Plan](./Test%20Plan.pdf)
 * [Test Scenarios](Test-Scenarios/Test%20Scenarios.pdf)
 * [Test Cases](Test-Cases/Test%20Cases.pdf)
 * [Test Execution](Test-Execution/Test%20Execution.pdf)
