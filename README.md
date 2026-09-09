@@ -175,7 +175,8 @@ The following documents are included in this repository:
 * [Test Execution](./Test%20Execution.pdf)
 * [Exploratory Testing Report](./Exploratory%20Testing%20Report.pdf)
 * [Bug Report](./Bug%20Report.pdf)
-* [Test Evidence](Evidence/)
+* [Test Summary Report](./Test%20Summary%20Report.pdf)
+* [Evidence](Evidence/)
 
 Each document provides different information and is intended to demonstrate the complete manual testing workflow.
 
