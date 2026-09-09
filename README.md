@@ -173,8 +173,8 @@ The following documents are included in this repository:
 * [Test Scenarios](./Test%20Scenarios.pdf)
 * [Test Cases](./Test%20Cases.pdf)
 * [Test Execution](./Test%20Execution.pdf)
-* [Exploratory Testing](./Exploratory%20Testing.pdf)
-* [Bug Reports](./Bug%20Reports.pdf)
+* [Exploratory Testing Report](./Exploratory%20Testing%20Report.pdf)
+* [Bug Report](./Bug%20Report.pdf)
 * [Test Evidence](Evidence/)
 
 Each document provides different information and is intended to demonstrate the complete manual testing workflow.
@@ -227,7 +227,7 @@ SauceDemo-Manual-QA/
 │
 ├── Exploratory Testing Report.pdf
 │
-├── Bug-Reports.pdf
+├── Bug-Report.pdf
 │
 └── Evidence/
     ├── Login/
