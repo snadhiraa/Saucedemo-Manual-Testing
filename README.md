@@ -169,13 +169,12 @@ The footer position/alignment changed depending on the page or viewport.
 
 The following documents are included in this repository:
 
-* [Test Plan](Test-Plan/)
-* [Test Scenarios](Test-Scenarios/)
-* [Test Cases](Test-Cases/)
-* [Test Execution Report](Test-Execution/)
-* [Test Summary Report](Test-Summary/)
-* [Exploratory Testing Report](Exploratory-Testing/)
-* [Bug Reports](Bug-Reports/)
+* [Test Plan](Test-Plan/Test%20Plan.pdf)
+* [Test Scenarios](Test-Scenarios/Test%20Scenarios.pdf)
+* [Test Cases](Test-Cases/Test%20Cases.pdf)
+* [Test Execution](Test-Execution/Test%20Execution.pdf)
+* [Exploratory Testing](Exploratory-Testing/Exploratory%20Testing.pdf)
+* [Bug Reports](Bug-Reports/Bug%20Reports.pdf)
 * [Test Evidence](Evidence/)
 
 Each document provides different information and is intended to demonstrate the complete manual testing workflow.
@@ -216,23 +215,17 @@ SauceDemo-Manual-QA/
 │
 ├── README.md
 │
-├── Test-Plan/
-│   └── Test Plan.pdf
+├── Test Plan.pdf
 │
-├── Test-Scenarios/
-│   └── Test Scenarios.pdf
+├── Test Scenarios.pdf
 │
-├── Test-Cases/
-│   └── Test Cases.xlsx
+├── Test Cases.pdf
 │
-├── Test-Execution/
-│   └── Test Execution Report.xlsx
+├── Test Execution Report.pdf
 │
-├── Test-Summary/
-│   └── Test Summary Report.pdf
+├── Test Summary Report.pdf
 │
-├── Exploratory-Testing/
-│   └── Exploratory Testing Report.pdf
+├── Exploratory Testing Report.pdf
 │
 ├── Bug-Reports/
 │   ├── BUG-001.md
